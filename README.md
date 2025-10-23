@@ -230,6 +230,6 @@ Then deploy the `dist/` folder using any of the following platforms:
 
 
 ## The image preview of a simple design 
-![Screenshot](/images/figma preview.png)
+![Screenshot](/images/figma%20preview.png)
 
 ---
