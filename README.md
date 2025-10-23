@@ -1,6 +1,6 @@
 # Developer Dashboard
 
-A **React + TypeScript Developer Dashboard** that displays real-time information for developers such as weather, GitHub stats, motivational quotes, and a personal to-do list — all in a clean, customizable interface.
+A **React + TypeScript Developer Dashboard** that displays real-time information for developers such as weather, GitHub stats, motivational quotes, and a personal to-do list all in a clean, customizable interface.
 
 This project is part of a group learning initiative to explore **React fundamentals**, **API integration**, **state management**, and **modern frontend tooling** using **Vite**.
 
@@ -9,7 +9,7 @@ This project is part of a group learning initiative to explore **React fundament
 ## Project Overview
 
 **Goal:**
-Build an interactive Developer Dashboard to practice real-world React development concepts — including components, hooks, API calls, local storage, and responsive design.
+Build an interactive Developer Dashboard to practice real-world React development concepts including components, hooks, API calls, local storage, and responsive design.
 
 **Core Features (MVP):**
 
