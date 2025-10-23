@@ -11,4 +11,13 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-})
+  test: {
+    globals: true,
+    environment: 'jsdom',
+    coverage: {
+      provider: 'v8',
+      reporter: ['text', 'lcov']
+    },
+    include: ['src/**/*.{test,spec}.{js,ts,jsx,tsx}']
+  }
+} as import('vite').UserConfigExport)
