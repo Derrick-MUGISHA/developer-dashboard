@@ -21,7 +21,7 @@ Build an interactive Developer Dashboard to practice real-world React developmen
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category               | Technology                                                                                                                    |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -36,7 +36,7 @@ Build an interactive Developer Dashboard to practice real-world React developmen
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 Follow these steps to get the project running locally:
 
@@ -227,5 +227,9 @@ Then deploy the `dist/` folder using any of the following platforms:
 * [Vite Documentation](https://vitejs.dev/guide/)
 * [TailwindCSS Documentation](https://tailwindcss.com/docs)
 * [Our google doc of the project](https://docs.google.com/document/d/1gJgI0vYWs1EM9H3xRurG3_RkIO9olP-w-W0pl02hdEs/edit?tab=t.0)
+
+
+## The image preview of a simple design 
+![Screenshot](/images/figma preview.png)
 
 ---
