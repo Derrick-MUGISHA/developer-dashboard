@@ -16,7 +16,7 @@ export const useQuotes = () => {
         if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
 
         const data = await res.json();
-        const quotes: Quote[] = data.quotes; // ✅ extract array
+        const quotes: Quote[] = data.quotes;
 
         const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
 
