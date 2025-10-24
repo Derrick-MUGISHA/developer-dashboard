@@ -14,10 +14,10 @@ export default function CurrentWeather() {
 
     useEffect(() => {
     const timer = setInterval(() => {
-      setTime(new Date()); // update every second
+      setTime(new Date()); 
     }, 1000);
 
-    return () => clearInterval(timer); // cleanup on unmount
+    return () => clearInterval(timer); 
   }, []);
 
   return (

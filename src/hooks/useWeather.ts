@@ -18,7 +18,7 @@ export const useWeather = () => {
           temperature: parseFloat(current.temp_C),
           description: current.weatherDesc[0].value,
           city: json.nearest_area[0].areaName[0].value,
-          icon: `https://openweathermap.org/img/wn/01d.png`, // simple placeholder icon
+          icon: ``, 
           wind: parseFloat(current.windspeedKmph),
           humidity: parseFloat(current.humidity),
           time: current.observation_time,
